@@ -1,0 +1,17 @@
+.home{
+        display: flex;
+        margin-top: 10rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;   
+}
+
+.home__avatar-logo{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.google{
+    display: block;
+    text-align: center;
+}

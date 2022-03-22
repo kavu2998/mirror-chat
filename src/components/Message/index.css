@@ -1,0 +1,16 @@
+.me{
+    text-align: end;
+    float: right;
+    border: 1px solid rgb(231, 224, 224);
+    background-color: rgb(203, 205, 218);
+    padding: 10px;
+    border-radius: 10px;
+}
+.alice{
+    text-align: start;
+    float: left;
+    border: 1px solid rgb(231, 224, 224);
+    background-color: rgb(167, 175, 218);
+    padding: 10px;
+    border-radius: 10px;
+}
